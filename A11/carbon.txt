@@ -1,7 +1,7 @@
 ROM Name : CarbonROM 9.0
 Android Version : A11
 Redmi 9T/Poco M3 (Juice)
-Date : 12/11/2022
+Date : 10/11/2022
 Maintainer : @zaidannn7
 Changelogs :
 • October Security Patch
