@@ -1,0 +1,43 @@
+ROM Name : CarbonROM 9.0
+Android Version : A11
+Redmi 9T/Poco M3 (Juice)
+Date : 12/11/2022
+Maintainer : @zaidannn7
+Changelogs :
+• October Security Patch
+• Checkout perf configs from QCOM common
+• Disable ART Debug for Device builds
+• Add ViaBrowser
+• Optimise dex flags
+• Enable skia reduce ops task splitting
+• Use skiaglthreaded for Renderengine backend
+• Disable hwc vds in surface flinger
+• Disable QCOM system daemon
+• Disable zram writeback
+• Disable intrusive gms components
+• Force disable iorapd
+• Enable FUSE Passthrough
+• Latch unsignal buffers with AutoSingleLayer
+• Update redfin Fingerprint to October patch
+• Increase audio HAL buffer size to 240
+• Import phase offset from `sunfish`
+• Enable Rich-Communication Services
+• Flatten APEXs for performance
+• Inherit several Android Go configurations
+• Add some libs on PinnerServices
+• lights: silence getMaxBrightness logging
+• power: Implement extension for LOW_POWER mode
+• wifi: Disable all logging
+• Switch primary output and deep buffer to 24 bit profile
+• Use the customized max cached processes number
+• Add more libs on PinnerServices
+
+Notes :
+• Non-OSS Build (Prebuilt Vendor)
+• Prebuilt Kernel
+• Not Include Gapps (Vanilla)
+
+Credits & Thanks :
+• @Idonthaveusernema/Don Joaquin for dt.
+• @frostg012, @rktdnt, @kalkioss for some commit.
+• @CC_CLANG for all his helps.
